@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently a Software Engineering Technology and Artificial Intelligence student at Centennial College in Toronto.<br>💡 I've expertise in Python and SQL, as well as analytical tools like Power BI, Tableau, and Advanced Excel. <br>🤝 I’m seeking a full time job as a data analyst.<br>🌱 I’m currently enhance my analysis skill by creating such projects.  <br>💬 Ask me about #chess, #powerbi, #tableau, #python, #sql <br>⚡ I'm an International Rated Chess Player. If you are chess player, send me a challenge on chess.com or lichess.org (username: Jay_1999)
+🔭 I’m currently a Software Engineering Technology and Artificial Intelligence student at Centennial College in Toronto.<br>
+💡 I've expertise in Python and SQL, as well as analytical tools like Power BI, Tableau, and Advanced Excel. <br>
+🤝 I’m seeking a full time job as a data analyst.<br>
+🌱 I’m currently enhance my analysis skill by creating such projects.  <br>
+💬 Ask me about #chess, #powerbi, #tableau, #python, #sql <br>
+♟️ I'm an International Rated Chess Player. If you are chess player, send me a challenge on chess.com or lichess.org (username: Jay_1999)
 
 
 ## 🌐 Socials:
