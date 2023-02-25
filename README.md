@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a Software Engineering Technology and Artificial Intelligence student at Centennial College in Toronto.<br>
+🏫 I’m currently a Software Engineering Technology and Artificial Intelligence student at Centennial College in Toronto.<br>
 💡 I've expertise in Python and SQL, as well as analytical tools like Power BI, Tableau, and Advanced Excel. <br>
 🤝 I’m seeking a full time job as a data analyst.<br>
 🌱 I’m currently enhance my analysis skill by creating such projects.  <br>
